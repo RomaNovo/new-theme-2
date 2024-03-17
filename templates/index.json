@@ -133,6 +133,7 @@
       }
     },
     "video": {
+      "disabled": true,
       "type": "video",
       "settings": {
         "heading": "",
