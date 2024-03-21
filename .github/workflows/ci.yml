@@ -11,7 +11,6 @@ jobs:
       with:
         access_token: ${{ secrets.SHOP_ACCESS_TOKEN }}
         store: ${{ secrets.SHOP_STORE }}
-        password: ${{ secrets.SHOP_PASSWORD }}
   theme-check:
     name: Theme Check
     runs-on: ubuntu-latest
